@@ -75,6 +75,7 @@ Comment s'appelle la branche principale par défaut dans de nombreux repositorie
 - C) base
 - D) root
 
+
 - **Réponse Correcte: B** - Historiquement, la branche principale par défaut dans Git est souvent appelée "master".
 
 #### Question 8/B
