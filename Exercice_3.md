@@ -220,3 +220,4 @@ Résultat: git reset --soft [hash-du-commit]
 
 
 
+
