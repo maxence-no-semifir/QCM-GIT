@@ -36,3 +36,12 @@ a) `git fork <url>`
 b) `git copy <url>`  
 c) `git clone <url>`  
 d) `git duplicate <url>`  
+
+#### Question 6:
+**Comment annuler le dernier commit tout en conservant les modifications dans votre espace de travail ?**
+a) `git reset --soft HEAD~1`  
+b) `git revert HEAD~1`  
+c) `git reset --hard HEAD~1`  
+d) `git checkout HEAD~1`  
+
+
