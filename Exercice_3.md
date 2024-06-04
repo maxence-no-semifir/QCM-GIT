@@ -10,7 +10,6 @@ Qu'est-ce que GitHub?
            Résultat : ----> B
 
 
-
 #### Question 2
 Quelle est la principale différence entre Git et GitHub?
 - A) Git est une application web, tandis que GitHub est un outil en ligne de commande
