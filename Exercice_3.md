@@ -194,7 +194,6 @@ Quelle commande permet de combiner l'historique de deux branches différentes?
 - D) git join [nom-de-branche]
 
 Résultat : - A) git merge [nom-de-branche]
-
 #### Question 20
 
 Pour annuler un commit spécifique en gardant les modifications dans votre espace de travail, quelle commande Git utiliseriez-vous?
@@ -205,3 +204,6 @@ Pour annuler un commit spécifique en gardant les modifications dans votre espac
 - D) git rollback [hash-du-commit]
 
 Résultat: git reset --soft [hash-du-commit]
+
+
+
