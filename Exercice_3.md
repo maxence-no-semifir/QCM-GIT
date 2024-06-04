@@ -7,6 +7,8 @@ Qu'est-ce que GitHub?
 - C) Un logiciel de traitement de texte
 - D) Une base de données pour stocker des images
 
+Resultat :B
+
 #### Question 2
 Quelle est la principale différence entre Git et GitHub?
 - A) Git est une application web, tandis que GitHub est un outil en ligne de commande
@@ -14,12 +16,14 @@ Quelle est la principale différence entre Git et GitHub?
 - C) Il n'y a pas de différences
 - D) GitHub utilise Git, mais étend ses fonctionnalités pour la collaboration en ligne
 
+Resultat :B
 #### Question 3
 Quelle commande permet de cloner un repository de GitHub sur votre machine locale?
 - A) git clone
 - B) git fork
 - C) git copy
 - D) git branch
+Resultat :A
 
 #### Question 4
 Quelle commande est utilisée pour pousser les modifications locales vers un repository sur GitHub?
@@ -28,6 +32,8 @@ Quelle commande est utilisée pour pousser les modifications locales vers un rep
 - C) git commit
 - D) git merge
 
+Resultat :A
+
 #### Question 5
 Que signifie faire un "fork" d'un repository sur GitHub?
 - A) Copier le repository dans votre propre compte pour apporter des modifications sans affecter l'original
@@ -35,6 +41,7 @@ Que signifie faire un "fork" d'un repository sur GitHub?
 - C) Créer une nouvelle branche dans le repository
 - D) Fusionner deux branches dans le repository
 
+Resultat :A
 #### Question 6
 Quel est l'objectif principal des branches dans Git?
 - A) Effacer l'historique de modifications
@@ -42,6 +49,7 @@ Quel est l'objectif principal des branches dans Git?
 - C) Sécuriser le repository contre les accès non autorisés
 - D) Sauvegarder le repository chaque jour
 
+Resultat :B
 #### Question 7
 Comment s'appelle la branche principale par défaut dans de nombreux repositories Git?
 - A) default
@@ -49,19 +57,23 @@ Comment s'appelle la branche principale par défaut dans de nombreux repositorie
 - C) base
 - D) root
 
+Resultat :B
 #### Question 8
 Qu'est-ce qu'une Pull Request sur GitHub?
 - A) Une demande pour télécharger le contenu d'un repository
 - B) Une demande pour fusionner une branche avec la branche principale du projet après révision
 - C) Une demande pour supprimer une branche
 - D) Une demande pour obtenir les droits d'administration sur un repository
-
+Resultat :B
 #### Question 9
 Quelle commande permet de voir les différences non indexées dans votre repository Git?
 - A) git difference
 - B) git diff
 - C) git show
 - D) git view
+
+Resultat :B
+
 
 #### Question 10
 Qu'est-ce que "git stash" fait?
@@ -70,6 +82,7 @@ Qu'est-ce que "git stash" fait?
 - C) Publie toutes les modifications sur GitHub
 - D) Crée une nouvelle branche silencieusement
 
+Resultat :B
 #### Question 11
 Quelle commande Git permet de créer une nouvelle branche localement?
 - A) git new branch
@@ -77,12 +90,15 @@ Quelle commande Git permet de créer une nouvelle branche localement?
 - C) git branch -b [nom-de-branche]
 - D) git create branch
 
+Resultat :C
 #### Question 12
 Comment pouvez-vous mettre à jour votre branche locale avec les modifications de la branche principale distante?
 - A) git merge origin/main
 - B) git pull origin main
 - C) git fetch origin
 - D) B et C sont correctes
+
+Resultat :D
 
 #### Question 13
 Si vous voulez voir la liste de toutes les branches existantes dans votre repository local, quelle commande utiliseriez-vous?
@@ -91,12 +107,16 @@ Si vous voulez voir la liste de toutes les branches existantes dans votre reposi
 - C) git branch list
 - D) git list branches
 
+Resultat :C
+
 #### Question 14
 Quelle commande est utilisée pour changer de branche?
 - A) git switch
 - B) git checkout [nom-de-branche]
 - C) A et B sont correctes
 - D) git swap [nom-de-branche]
+
+Resultat :B
 
 #### Question 15
 Quelle commande Git permet d'ajouter tous les fichiers modifiés à l'index avant de commettre?
@@ -105,12 +125,16 @@ Quelle commande Git permet d'ajouter tous les fichiers modifiés à l'index avan
 - C) git index --all
 - D) git ready all
 
+Resultat :B
+
 #### Question 16
 Quelle commande est utilisée pour lier votre repository local à un repository distant?
 - A) git link origin [URL]
 - B) git remote add origin [URL]
 - C) git connect remote [URL]
 - D) git add remote [URL]
+
+Resultat :B
 
 #### Question 17
 Quelle commande permet de sauvegarder des changements locaux dans un nouveau commit?
@@ -119,12 +143,16 @@ Quelle commande permet de sauvegarder des changements locaux dans un nouveau com
 - C) git push "Votre message de commit"
 - D) git index "Votre message de commit"
 
+Resultat :A
+
 #### Question 18
 Comment pouvez-vous visualiser l'historique des commits dans votre branche actuelle?
 - A) git log
 - B) git history
 - C) git commits
 - D) git show history
+
+Resultat :A
 
 #### Question 19
 Quelle commande permet de combiner l'historique de deux branches différentes?
@@ -133,6 +161,8 @@ Quelle commande permet de combiner l'historique de deux branches différentes?
 - C) git fuse [nom-de-branche]
 - D) git join [nom-de-branche]
 
+Resultat :A
+
 #### Question 20
 Pour annuler un commit spécifique en gardant les modifications dans votre espace de travail, quelle commande Git utiliseriez-vous?
 - A) git revert [hash-du-commit]
@@ -140,3 +170,4 @@ Pour annuler un commit spécifique en gardant les modifications dans votre espac
 - C) git reset --soft [hash-du-commit]
 - D) git rollback [hash-du-commit]
 
+Resultat :A
