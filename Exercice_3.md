@@ -213,5 +213,6 @@ Pour annuler un commit spécifique en gardant les modifications dans votre espac
 - C) git reset --soft [hash-du-commit]
 - D) git rollback [hash-du-commit]
 A
-
+ 
+ 
 - **Réponse Correcte: C** - `git reset --soft [hash-du-commit]` permet de revenir au commit spécifié tout en gardant les modifications dans votre espace de travail.
