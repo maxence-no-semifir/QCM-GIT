@@ -9,4 +9,4 @@ print("Bonjour, " + nom +" ! Vous avez " + age + " ans.")
 # Une petite erreur de logique ici, l'âge doit être converti en entier pour ajouter 10 ans
 age_plus_10 = int(age) + 10
 
-print("Dans 10 ans, vous aurez " + str(age_plus_10) + " ans.")
+print("Dans 10 ans, vous aurez " + str(age_plus_10) + " ans." )
