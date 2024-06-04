@@ -1,7 +1,7 @@
 ### QCM sur GitHub
 
 #### Question 1/B
-Qu'est-ce que GitHub?
+Qu'est-ce que GitHub ?
 
 - B) Une plateforme web de gestion de versions de code source et de collaboration
 - C) Un logiciel de traitement de texte
