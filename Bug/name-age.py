@@ -13,3 +13,6 @@ try:
     print("Dans 10 ans, vous aurez " + str(age_plus_10) + " ans.")
 except ValueError:
     print ("value error")
+    
+    
+    #Wouahhh trop bien le cours avec Max
