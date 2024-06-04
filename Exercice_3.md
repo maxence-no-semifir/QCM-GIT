@@ -2,19 +2,11 @@
 
 #### Question 1
 Qu'est-ce que GitHub?
-- A) Un système d'exploitation basé sur Linux
-- B) Une plateforme web de gestion de versions de code source et de collaboration
-- C) Un logiciel de traitement de texte
-- D) Une base de données pour stocker des images
 
 Resultat :B
 
 #### Question 2
 Quelle est la principale différence entre Git et GitHub?
-- A) Git est une application web, tandis que GitHub est un outil en ligne de commande
-- B) Git est un système de contrôle de version, tandis que GitHub est une plateforme de collaboration
-- C) Il n'y a pas de différences
-- D) GitHub utilise Git, mais étend ses fonctionnalités pour la collaboration en ligne
 
 Resultat :B
 #### Question 3
@@ -28,146 +20,147 @@ Resultat :A
 #### Question 4
 Quelle commande est utilisée pour pousser les modifications locales vers un repository sur GitHub?
 - A) git push
-- B) git pull
-- C) git commit
-- D) git merge
+
+
+- **Réponse Correcte: A** - `git push` est utilisée pour envoyer vos modifications locales à un repository distant sur GitHub.
 
 Resultat :A
 
 #### Question 5
 Que signifie faire un "fork" d'un repository sur GitHub?
 - A) Copier le repository dans votre propre compte pour apporter des modifications sans affecter l'original
-- B) Supprimer un repository
-- C) Créer une nouvelle branche dans le repository
-- D) Fusionner deux branches dans le repository
+
+
+- **Réponse Correcte: A** - Faire un "fork" signifie copier le repository dans votre propre compte pour apporter des modifications sans affecter le repository original.
 
 Resultat :A
 #### Question 6
 Quel est l'objectif principal des branches dans Git?
-- A) Effacer l'historique de modifications
+
 - B) Permettre à plusieurs développeurs de travailler sur des fonctionnalités différentes sans interférer
-- C) Sécuriser le repository contre les accès non autorisés
-- D) Sauvegarder le repository chaque jour
+
+
+- **Réponse Correcte: B** - Les branches permettent à plusieurs développeurs de travailler sur des fonctionnalités différentes sans interférer les uns avec les autres.
 
 Resultat :B
 #### Question 7
 Comment s'appelle la branche principale par défaut dans de nombreux repositories Git?
-- A) default
 - B) master
-- C) base
-- D) root
+
+
+- **Réponse Correcte: B** - Historiquement, la branche principale par défaut dans Git est souvent appelée "master".
 
 Resultat :B
 #### Question 8
 Qu'est-ce qu'une Pull Request sur GitHub?
-- A) Une demande pour télécharger le contenu d'un repository
 - B) Une demande pour fusionner une branche avec la branche principale du projet après révision
 - C) Une demande pour supprimer une branche
 - D) Une demande pour obtenir les droits d'administration sur un repository
 Resultat :B
 #### Question 9
 Quelle commande permet de voir les différences non indexées dans votre repository Git?
-- A) git difference
+
 - B) git diff
-- C) git show
-- D) git view
+
+
+- **Réponse Correcte: B** - `git diff` est utilisée pour voir les différences non indexées dans votre repository.
 
 Resultat :B
 
 
 #### Question 10
 Qu'est-ce que "git stash" fait?
-- A) Supprime définitivement des modifications
+
 - B) Enregistre les modifications locales de manière temporaire sans les committer
-- C) Publie toutes les modifications sur GitHub
-- D) Crée une nouvelle branche silencieusement
+
+
+- **Réponse Correcte: B** - `git stash` enregistre les modifications locales de manière temporaire sans les commettre, permettant de revenir à une base de code propre.
 
 Resultat :B
 #### Question 11
 Quelle commande Git permet de créer une nouvelle branche localement?
-- A) git new branch
-- B) git branch new
+
 - C) git branch -b [nom-de-branche]
 - D) git create branch
+- 
+- **Réponse Correcte: C** - `git branch [nom-de-branche]` est la commande pour créer une nouvelle branche.
 
 Resultat :C
 #### Question 12
 Comment pouvez-vous mettre à jour votre branche locale avec les modifications de la branche principale distante?
-- A) git merge origin/main
-- B) git pull origin main
-- C) git fetch origin
+
+_- B) git pull origin main_
+_- C) git fetch origin_
 - D) B et C sont correctes
 
 Resultat :D
 
 #### Question 13
 Si vous voulez voir la liste de toutes les branches existantes dans votre repository local, quelle commande utiliseriez-vous?
-- A) git branches
-- B) git branch
+
 - C) git branch list
-- D) git list branches
+
+
+- **Réponse Correcte: B** - `git branch` affiche toutes les branches locales disponibles.
 
 Resultat :C
 
 #### Question 14
 Quelle commande est utilisée pour changer de branche?
-- A) git switch
-- B) git checkout [nom-de-branche]
-- C) A et B sont correctes
-- D) git swap [nom-de-branche]
 
 Resultat :B
 
 #### Question 15
 Quelle commande Git permet d'ajouter tous les fichiers modifiés à l'index avant de commettre?
-- A) git commit -A
+
 - B) git add .
 - C) git index --all
 - D) git ready all
+- 
+- **Réponse Correcte: B** - `git add .` ajoute tous les fichiers modifiés dans le répertoire actuel à l'index.
+
 
 Resultat :B
 
 #### Question 16
 Quelle commande est utilisée pour lier votre repository local à un repository distant?
-- A) git link origin [URL]
+
 - B) git remote add origin [URL]
-- C) git connect remote [URL]
-- D) git add remote [URL]
+
+
+
+- **Réponse Correcte: B** - `git remote add origin [URL]` est utilisée pour ajouter une référence à un repository distant appelé "origin".
 
 Resultat :B
 
 #### Question 17
 Quelle commande permet de sauvegarder des changements locaux dans un nouveau commit?
 - A) git commit -m "Votre message de commit"
-- B) git save "Votre message de commit"
-- C) git push "Votre message de commit"
-- D) git index "Votre message de commit"
+
+
+- **Réponse Correcte: A** - `git commit -m "Votre message de commit"` crée un nouveau commit avec les changements qui ont été ajoutés à l'index.
 
 Resultat :A
 
 #### Question 18
 Comment pouvez-vous visualiser l'historique des commits dans votre branche actuelle?
 - A) git log
-- B) git history
-- C) git commits
-- D) git show history
+
+
+- **Réponse Correcte: A** - `git log` permet de visualiser l'historique des commits sur la branche actuelle.
 
 Resultat :A
 
 #### Question 19
 Quelle commande permet de combiner l'historique de deux branches différentes?
 - A) git merge [nom-de-branche]
-- B) git combine [nom-de-branche]
-- C) git fuse [nom-de-branche]
-- D) git join [nom-de-branche]
+
+- **Réponse Correcte: A** - `git merge [nom-de-branche]` est utilisée pour fusionner une branche spécifiée dans la branche actuelle.
 
 Resultat :A
 
 #### Question 20
 Pour annuler un commit spécifique en gardant les modifications dans votre espace de travail, quelle commande Git utiliseriez-vous?
 - A) git revert [hash-du-commit]
-- B) git undo [hash-du-commit]
-- C) git reset --soft [hash-du-commit]
-- D) git rollback [hash-du-commit]
 
 Resultat :A
