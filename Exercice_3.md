@@ -2,19 +2,13 @@
 
 #### Question 1
 Qu'est-ce que GitHub?
-- A) Un système d'exploitation basé sur Linux
-- B) Une plateforme web de gestion de versions de code source et de collaboration
-- C) Un logiciel de traitement de texte
-- D) Une base de données pour stocker des images 
-B
+
+Resultat :B
 
 #### Question 2
 Quelle est la principale différence entre Git et GitHub?
-- A) Git est une application web, tandis que GitHub est un outil en ligne de commande
-- B) Git est un système de contrôle de version, tandis que GitHub est une plateforme de collaboration
-- C) Il n'y a pas de différences
-- D) GitHub utilise Git, mais étend ses fonctionnalités pour la collaboration en ligne
 B
+Resultat :B
 #### Question 3
 Quelle commande permet de cloner un repository de GitHub sur votre machine locale?
 - A) git clone
@@ -45,21 +39,19 @@ Quel est l'objectif principal des branches dans Git?
 B
 #### Question 7
 Comment s'appelle la branche principale par défaut dans de nombreux repositories Git?
-- A) default
 - B) master
 - C) base
 - D) root
 A
 #### Question 8
 Qu'est-ce qu'une Pull Request sur GitHub?
-- A) Une demande pour télécharger le contenu d'un repository
 - B) Une demande pour fusionner une branche avec la branche principale du projet après révision
 - C) Une demande pour supprimer une branche
 - D) Une demande pour obtenir les droits d'administration sur un repository
 A
 #### Question 9
 Quelle commande permet de voir les différences non indexées dans votre repository Git?
-- A) git difference
+
 - B) git diff
 - C) git show
 - D) git view
@@ -73,22 +65,20 @@ Qu'est-ce que "git stash" fait?
 B
 #### Question 11
 Quelle commande Git permet de créer une nouvelle branche localement?
-- A) git new branch
-- B) git branch new
+
 - C) git branch -b [nom-de-branche]
 - D) git create branch
 C
 #### Question 12
 Comment pouvez-vous mettre à jour votre branche locale avec les modifications de la branche principale distante?
-- A) git merge origin/main
-- B) git pull origin main
-- C) git fetch origin
+
+_- B) git pull origin main_
+_- C) git fetch origin_
 - D) B et C sont correctes
 A
 #### Question 13
 Si vous voulez voir la liste de toutes les branches existantes dans votre repository local, quelle commande utiliseriez-vous?
-- A) git branches
-- B) git branch
+
 - C) git branch list
 - D) git list branches
 C
@@ -101,14 +91,14 @@ Quelle commande est utilisée pour changer de branche?
 A
 #### Question 15
 Quelle commande Git permet d'ajouter tous les fichiers modifiés à l'index avant de commettre?
-- A) git commit -A
+
 - B) git add .
 - C) git index --all
 - D) git ready all
 B
 #### Question 16
 Quelle commande est utilisée pour lier votre repository local à un repository distant?
-- A) git link origin [URL]
+
 - B) git remote add origin [URL]
 - C) git connect remote [URL]
 - D) git add remote [URL]
