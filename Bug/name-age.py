@@ -10,3 +10,4 @@ print("Bonjour, ", + nom ," ! Vous avez " + age + " ans.")
 age_plus_10 = age + 10
 
 print("Dans 10 ans, vous aurez " + str(age_plus_10) + " ans.")
+
