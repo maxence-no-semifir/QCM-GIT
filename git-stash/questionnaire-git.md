@@ -34,6 +34,6 @@ d) `git integrate feature-branch`
 **Quelle commande est utilisée pour cloner un dépôt distant ?**
 a) `git fork <url>`  
 b) `git copy <url>`  
-c) `git clone <url>`  
+c) `git clone <url >`  
 d) `git duplicate <url> `  
   
