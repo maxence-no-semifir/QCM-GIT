@@ -45,3 +45,4 @@ c) `git reset --hard HEAD~1`
 d) `git checkout HEAD~1`    
 
 
+ 
