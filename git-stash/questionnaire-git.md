@@ -46,7 +46,7 @@ b) `git copy <url>`
 c) `git clone <url>`  
 d) `git duplicate <url>`
 
-Résultat : c) `git clone <url> `
+Résultat : c) `git clone <url> `.
 
 #### Question 6:
 
