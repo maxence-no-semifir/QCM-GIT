@@ -193,6 +193,9 @@ Comment pouvez-vous visualiser l'historique des commits dans votre branche actue
 - D) git show history
   Résultat : - A) git log
 
+
+
+
 - **Réponse Correcte: A** - `git log` permet de visualiser l'historique des commits sur la branche actuelle.
 
 #### Question 19/A
@@ -212,7 +215,5 @@ Pour annuler un commit spécifique en gardant les modifications dans votre espac
 - D) git rollback [hash-du-commit]
 
 - **Réponse Correcte: C** - `git reset --soft [hash-du-commit]` permet de revenir au commit spécifié tout en gardant les modifications dans votre espace de travail.
-                     
 
-
-                     
+               
