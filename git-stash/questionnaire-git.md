@@ -35,5 +35,5 @@ d) `git integrate feature-branch`
 a) `git fork <url>`  
 b) `git copy <url>`  
 c) `git clone <url>`  
-d) `git duplicate <url>`  
+d) `git duplicate <url> `  
   
