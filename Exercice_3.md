@@ -193,6 +193,9 @@ Comment pouvez-vous visualiser l'historique des commits dans votre branche actue
 - D) git show history
   Résultat : - A) git log
 
+
+
+
 - **Réponse Correcte: A** - `git log` permet de visualiser l'historique des commits sur la branche actuelle.
 
 #### Question 19/A
