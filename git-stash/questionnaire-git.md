@@ -42,6 +42,6 @@ d) `git duplicate <url>`
 a) `git reset --soft HEAD~1`  
 b) `git revert HEAD~1`  
 c) `git reset --hard HEAD~1`  
-d) `git checkout HEAD~1`  
+d) `git checkout HEAD~1`   
 
 
